@@ -1,0 +1,35 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+}
+
+header {
+  background-color: #2c9ab7;
+  color: white;
+  height: 200px;
+}
+
+h1 {
+  margin: 0;
+}
+
+h1, h3 {
+  text-transform: uppercase;
+}
+
+article {
+  float: left;
+}
+
+aside {
+  float: right;
+}
+
+h3 {
+  font-size: 2rem;
+  font-family: sans-serif;
+}
+
+a {
+  color: lightblue;
+}
