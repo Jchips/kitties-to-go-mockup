@@ -4,8 +4,8 @@ body {
 }
 
 header, nav, main, footer {
-  padding-left: 200px;
-  padding-right: 200px;
+  padding-left: 220px;
+  padding-right: 220px;
 }
 
 header {
@@ -17,8 +17,8 @@ header {
 }
 
 main {
-  height: 780px;
-  margin-top: 40px;
+  height: 820px;
+  margin-top: 35px;
   margin-bottom: 10px;
 }
 
@@ -65,7 +65,7 @@ nav a:hover, h4, a {
 
 .article {
   float: left;
-  width: 61%;
+  width: 66%;
 }
 
 .about img {
@@ -88,7 +88,7 @@ h4 {
 
 aside {
   float: right;
-  width: 30%;
+  width: 27%;
 }
 
 figure {
@@ -109,8 +109,12 @@ a {
   text-decoration: none;
 }
 
-aside section a {
-  margin: 10px;
+.cat-in-news {
+  margin-bottom: 40px;
+}
+
+.cats-in-the-news {
+  margin-bottom: 55px;
 }
 
 footer {
